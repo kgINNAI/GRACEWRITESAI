@@ -9,8 +9,9 @@ Written with heart by **Karen Grace**, each piece blends curiosity, real-world i
 
 ## Featured Newsletters
 
-- [AI: The New Co-Worker](https://www.linkedin.com/newsletters/your-newsletter-link)
-- [Fictional Robots in History](https://www.linkedin.com/newsletters/your-newsletter-link)
+- [AI: The New Co-Worker](https://www.linkedin.com/pulse/ai-new-coworker-karen-grace-lapuebla-89u9c)
+
+  
 
 More editions coming soon.
 
